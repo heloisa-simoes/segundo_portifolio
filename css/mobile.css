@@ -70,6 +70,7 @@
     .projetos {
         height: 1800px;
         display: flex;
+        align-items: center;
     }
     .card-container {
         display: flex;
